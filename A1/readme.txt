@@ -1,9 +1,5 @@
 
-CSC361 programming assignment 1
-
-This program is written by Suhun Kim, V00952629
-
-Site HTTP support version checker
+Site HTTP support version checker (CSC361 programming assignment 1 by Suhun Kim)
 
 
 To run SmartClient.py, please enter command ‘python3 SmartClient.py www.***.ca’
